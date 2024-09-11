@@ -2,7 +2,13 @@ Nano service test lab
 ---
 This is a test system for measuring differences between different ways of calling a function. The purpose
 is to mesure the benefits of using the nano service architecture as proposed
-by Mattias Andersson.
+by Mattias Andersson. The theory is that the nano service architecture offers an order
+of magnitude speedup compared to a microservice in terms of performance.
+
+This translates to less power draw on the CPU, fewer machines and 
+less network traffic all which work to lower the runtime energy usage. 
+Also, fewer machines means fewer machines need to be produced which leads
+to further resource seavings.
 
 The test
 ---
