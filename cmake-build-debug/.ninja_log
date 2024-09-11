@@ -1,0 +1,20 @@
+# ninja log v6
+4	442	1726058203569524627	CMakeFiles/uservicelab.dir/LocalThreaded/ThreadedService.cpp.o	51185d111eace0cc
+6	39	1725606508942988507	CMakeFiles/uservicelab.dir/ActualFunction.cpp.o	9418ac192959dedb
+4	352	1726064567730823759	CMakeFiles/uservicelab.dir/ThreadedCaller.cpp.o	59e930f6ad2ee00a
+1	40	1726066739650142510	build.ninja	5b9f0dee626f12c9
+4	264	1725614578459158849	CMakeFiles/uservicelab.dir/Network/SocketIO.cpp.o	24723b057c0815e2
+4	327	1726064554964292198	CMakeFiles/uservicelab.dir/main.cpp.o	eb5def606c15f809
+4	391	1726058203569653001	CMakeFiles/uservicelab.dir/Network/Client.cpp.o	96f1c328706b39d4
+4	349	1725614594191023844	CMakeFiles/uservicelab.dir/Network/Server.cpp.o	fce5cc93c8b49a43
+352	382	1726064568079142905	uservicelab	7e3e736e9cd00419
+5	326	1726058203569760875	CMakeFiles/uservicelab.dir/ConcurrentQueue.cpp.o	c32354550c4e9280
+9	43	1726066741893279422	CMakeFiles/uservicelab.dir/ActualFunction.cpp.o	607e0ea5b10335a8
+10	418	1726066741894082892	CMakeFiles/uservicelab.dir/Network/SocketIO.cpp.o	5d079eac46fabf80
+9	480	1726066741892872791	CMakeFiles/uservicelab.dir/main.cpp.o	d9845648aba1a27e
+10	501	1726066741894344187	CMakeFiles/uservicelab.dir/ConcurrentQueue.cpp.o	b19ab5428a81dcea
+9	533	1726066741893151962	CMakeFiles/uservicelab.dir/ThreadedCaller.cpp.o	f4bf5610936e49b0
+10	537	1726066741893638552	CMakeFiles/uservicelab.dir/Network/Client.cpp.o	61a45fa01ffe1e34
+9	560	1726066741893518717	CMakeFiles/uservicelab.dir/Network/Server.cpp.o	2b2ff513b0b63802
+9	624	1726066741893395590	CMakeFiles/uservicelab.dir/LocalThreaded/ThreadedService.cpp.o	9c25177ab44e7860
+625	678	1726066742508763981	uservicelab	7e3e736e9cd00419
